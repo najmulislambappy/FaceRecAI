@@ -16,13 +16,20 @@ currently added:
 ### How to use:
 Very Simple. Assuming you have Python 3.6+ and open cv installed
 ```sh
-$ cd listener && npm start
-$ python moduleName.py
+$ python face.py
 ```
 If you have multiple version of python [ex: on a Ubuntu system]
 ```sh
-$ cd listener && npm start
 $ python3 moduleName.py
+```
+If you want to run the motion detection system
+Start Node server in one terminal
+```sh
+$ node ./listener/app
+```
+Then on a new terminal
+```sh
+$ python3 motion.py
 ```
 
 

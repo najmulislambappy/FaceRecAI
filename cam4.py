@@ -5,7 +5,7 @@ cv2.namedWindow('frame')
 cv2.namedWindow('dist')
 
 # the classifier that will be used in the cascade
-faceCascade = cv2.CascadeClassifier('haar_face.xml')
+faceCascade = cv2.CascadeClassifier('./data/haarcascades/haarcascade_frontalface_default.xml')
 
 #capture video stream from camera source. 0 refers to first camera, 1 referes to 2nd and so on.
 cap = cv2.VideoCapture(0)
