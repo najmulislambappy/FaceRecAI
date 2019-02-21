@@ -16,15 +16,15 @@ currently added:
 ### How to use:
 Very Simple. Assuming you have Python 3.6+ and open cv installed
 ```sh
+$ cd listener && npm start
 $ python moduleName.py
 ```
 If you have multiple version of python [ex: on a Ubuntu system]
 ```sh
+$ cd listener && npm start
 $ python3 moduleName.py
 ```
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ### Future:
 Provide your comments or feedback. We will try to improve as its a learning and work in progress project. Let us know if you want to contribute in Code.
