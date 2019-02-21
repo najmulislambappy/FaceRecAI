@@ -9,6 +9,7 @@ currently added:
   - Motion detection
   - Object distance mapping
   - Posting messages on a remote API service
+  - Node + Express to capture python post request data
 
 
 
