@@ -2,7 +2,7 @@
 
 ![python](https://img.icons8.com/color/48/000000/python.png)![AI](https://img.icons8.com/color/48/000000/learning.png)
 
-This is a small project to use python and open cv to create/test deep learning/nural networking options. Current goal is to recgnize face from any given image
+This is a small project to use python and open cv to create/test deep learning/neural network options. Current goal is to recgnize face from any given image
 
 # Some extras!
 currently added:
